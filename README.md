@@ -1,2 +1,0 @@
-# Practica
-Tarea Investigacion.
